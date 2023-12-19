@@ -1,3 +1,4 @@
+import { Priority } from "../../../../loaders/enums";
 import { priorityOrder } from "../../../../util/order-enums";
 import { GroupTaskEntity } from "../../entities/group-task.entity";
 import { ITaskEntity, TaskEntity } from "../../entities/task.entity";
